@@ -1,0 +1,118 @@
+DEFINICIÓN DE TÉRMINOS E INDICADORES
+1. INDICADOR
+Es una medida o expresión numérica que da cuenta de un aspecto de la realidad seleccionada; en general los indicadores son “Herramientas para clarificar y definir, de forma más precisa, objetivos e impactos (...) son medidas verificables de cambio o resultado (...) diseñadas para contar con un estándar contra el cual evaluar, estimar o demostrar el progreso (...) con respecto a metas establecidas, facilitan el reparto de insumos, produciendo (...) productos y alcanzando objetivos”. Entre ellos, la razón, la proporción y la tasa son los indicadores de uso en el presente informe:
+1.1 Razón
+Es el cociente entre dos números, en el que ninguno o solo algunos elementos del numerador están incluidos en el denominador. Por ejemplo, la razón de niños por mujer cuya expresión de cálculo es la siguiente:
+1.2 Proporción
+La proporción es un tipo especial de razón en la cual los elementos del numerador están incluidos en el denominador. En el numerador, se considera el número de individuos que verifican una condición determinada, por ejemplo: Desnutrido crónico, Mujeres y niños con anemia, niñas y niños con EDA o IRA en las últimas dos semanas, etc. Y, en el denominador el total de los individuos que comprende a los que presentan la condición determinada y los que no presentan dicha condición, cuyo cociente se expresa por uno por cien. Por ejemplo, la proporción de Población Urbana cuya expresión de cálculo es la siguiente:
+1.3 Tasa
+Es la frecuencia de los eventos socio-demográficos acaecidos en una población durante un determinado período de tiempo (normalmente un año) dividida entre la población “a riesgo” de sufrir el evento durante ese período de tiempo.
+La tasa es un tipo especial de proporción o razón que incluye una medida de tiempo en el denominador. Los componentes de una tasa son el numerador, el denominador, el tiempo específico en el que el hecho ocurre y usualmente un multiplicador, potencia de 10, que convierte una fracción decimal en un número entero. Por ejemplo, la Tasa especifica de fecundidad por edad cuya expresión de cálculo es la siguiente:
+1.4 Coeficiente de variación
+Es una medida estadística que relaciona la desviación estándar con la media estimada en una muestra de población determinada; y, cuyo cociente expresa el nivel o grado de homogeneidad de los valores materia de estimación en la muestra y es indicativo del nivel de precisión de la estimación obtenida:
+1.5 Intervalo de Confianza
+El intervalo de confianza es un rango de valores (calculado en una muestra) en el cual se encuentra el verdadero valor del parámetro, con una probabilidad determinada.
+1.6 Índice de Bienestar
+Es un índice compuesto que otorga un nivel socioeconómico al Hogar a partir de las características de la vivienda y la disponibilidad de ciertos bienes de consumo duradero, el cual por extensión se asigna a los integrantes del hogar.
+En la construcción del indicador a cada hogar se le asigna un puntaje mediante la metodología del análisis de componentes principales, dependiendo de la tenencia o no de los bienes duraderos y las características de la vivienda; metodología que fuera desarrollada por Shea Rutstein y Kiersten Johnson de Macro Internacional Inc.; y, Deon Filmer y Lant Pritchett del Banco Mundial.
+1.7 Quintil de Riqueza
+Es la distribución de los Hogares en cinco partes iguales teniendo como unidad de ordenamiento el valor del Índice de Riqueza que éstos alcanzaron, dando lugar a la especificación de un punto de corte para cada uno de ellos.
+En el presente documento, el Quintil de Riqueza se presenta en dos versiones. La primera que preserva el puntaje y los valores del Índice de Riqueza de la ENDES 2000, a fin de facilitar el seguimiento de los segmentos de población que mantienen un mismo nivel socioeconómico en el tiempo.
+De otro lado, restituyendo el concepto de quintiles, los puntos de cortes son establecidos según la distribución propia del año de la Encuesta.
+2. PRESUPUESTO POR RESULTADO
+Es un esquema presupuestario que integra la programación, formulación, aprobación, ejecución y evaluación del presupuesto, en una visión de logro de resultados a favor de la población, retroalimentando los procesos anuales para la reasignación, reprogramación y ajustes de las intervenciones.
+3. PROGRAMAS PRESUPUESTALES
+Son intervenciones articuladas del Estado, entre sectores y por niveles de gobierno, en torno a la resolución de un problema central que aqueja a la población de un país. Los programas estratégicos, constituyen el elemento fundamental de gestión del presupuesto por resultado; en tal sentido, responden a un modelo causal para logar resultados, cuyos niveles guardan una relación lógica de medios-fines, a partir de los insumos, subproductos, productos, resultados intermedios y finales asociados con el conjunto de intervenciones que lo constituyen.
+El artículo 10° de la Ley N° 28927 – Ley de Presupuesto del Sector Público para el Año Fiscal 2007 estableció el inicio de la aplicación de la gestión presupuestaria basada en resultados, a través de instrumentos como la Programación Presupuestaria Estratégica, metas físicas, indicadores de resultados y el desarrollo de pruebas piloto de evaluación.
+En cumplimiento del citado marco normativo, la Dirección Nacional del Presupuesto Público durante el primer semestre del año fiscal 2007, inició los trabajos para el diseño de un conjunto de intervenciones bajo el nuevo enfoque de Presupuesto por Resultados (PPR) dando como resultado la constitución de los cinco primeros Programas Presupuestales: Programa Articulado Nutricional, Salud Materno Neonatal, Logros de Aprendizaje al finalizar el III Ciclo, Acceso a Servicios Sociales Básicos y Acceso de la Población a la Identidad
+4. PORCENTAJE DE HOGARES CON ACCESO A AGUA TRATADA
+Es el porcentaje de hogares que tienen acceso a agua segura; entendiéndose como tal, el agua que proviene de la red pública o de aquella que no proviene de la red pública pero que le dan tratamiento al agua antes de beberla; tales como: La hierven, clorifican, desinfectan solarmente o consumen agua embotellada.
+5. PORCENTAJE DE HOGARES CON SANEAMIENTO BÁSICO
+Es el porcentaje de hogares que tienen acceso como mínimo a un pozo ciego o negro para la disposición de sus excretas.
+6. PORCENTAJE DE MENORES DE CINCO AÑOS CON DESNUTRICIÓN CRÓNICA
+Es el porcentaje de niñas y niños menores de cinco años cuya Talla para la Edad está dos desviaciones estándar por debajo de la
+mediana del Patrón de Crecimiento Internacional tomado como Población de Referencia.
+Población de Referencia
+Es el modelo que sirve de muestra para la evaluación de las medidas antropométricas que alcanzan los menores según edad y
+sexo, como indicativo del estado nutricional.
+En Perú, desde la ENDES 2005 la clasificación del Estado Nutricional se viene realizando teniendo como base el Patrón de
+Crecimiento Internacional Infantil de la Organización Mundial de la Salud - OMS difundido internacionalmente el año 2006. Este
+nuevo patrón de referencia fue elaborado sobre la base de niños y niñas que estuvieron en un entorno óptimo para el crecimiento:
+prácticas de alimentación recomendadas para lactantes y niños pequeños, buena atención de salud, madres no fumadoras y otros
+factores relacionados con los buenos resultados de salud. La muestra de niños y niñas proviene de: Brasil, Ghana, India, Noruega,
+Omán y Estados Unidos.
+El Patrón empleado anteriormente y con el cual se estableció la Meta de reducción de la Desnutrición Crónica para los Objetivos
+de Desarrollo del Milenio, es el recomendado por el National Center for Health Statistics (NCHS/OMS), el cual fuera elaborado a
+partir del seguimiento a una muestra de niños y niñas de los Estados Unidos y publicado en 1971.
+7. PORCENTAJE DE MENORES DE SEIS MESES CON LACTANCIA MATERNA
+Es el porcentaje de niñas y niños menores de seis meses que se alimentaron con leche materna el día anterior al día de entrevista.
+La Lactancia Materna es la alimentación del lactante con leche materna de la madre o de otra mujer
+8. PORCENTAJE DE NIÑAS Y NIÑOS DE 6 A 35 MESES DE EDAD CON ANEMIA
+Es el porcentaje de niñas y niños entre 6 a 35 meses de edad que tienen menos de 11 gramos de hemoglobina por decilitro de sangre.
+La anemia es una condición en la cual la sangre carece de suficientes glóbulos rojos, o la concentración de hemoglobina es menor que los valores de referencia según edad, sexo y altitud. La hemoglobina es un congregado de proteína que contiene hierro, se produce en los glóbulos rojos de los seres humanos y su carencia indica, en principio, que existe una deficiencia de hierro.
+Las consecuencias de la anemia son: fatiga, mareo, dolor de cabeza, palidez y palpitaciones. Además, está asociada al bajo rendimiento intelectual, alteraciones de la conducta y baja productividad.
+9. PORCENTAJE DE MENORES DE 36 MESES DE EDAD QUE EN LAS DOS SEMANAS ANTERIORES A LA ENCUESTA TUVIERON IRA
+Es el porcentaje de niñas y niños menores de 36 meses que tuvieron alguna Infección Respiratoria Aguda - IRA.
+Las Infecciones Respiratorias Agudas son un complejo y heterogéneo grupo de infecciones causadas por distintos gérmenes, que afectan cualquier parte del aparato respiratorio y que por su ubicación en dicho aparato respiratorio se denominan:
+• IRA no complicadas:
+- Resfrío común: nasofaringitis, rinofaringitis.
+- Sinusitis
+- Faringitis, amigdalitis
+- Bronquitis
+- Otitis media
+• IRA complicada
+- Neumonía: Respiración rápida.
+- Neumonía grave: Tiraje subcostal
+- Neumonía muy grave: estridor en estado de reposo.
+10. PORCENTAJE DE MENORES DE 36 MESES DE EDAD QUE EN LAS DOS SEMANAS ANTERIORES A LA ENCUESTA TUVIERON EDA
+Es el porcentaje de niñas y niños menores de 36 meses que tuvieron Enfermedad Diarreica Aguda -EDA.
+Se define como diarrea a la presencia de tres o más deposiciones sueltas o líquidas en un periodo de 24 horas. Si un episodio de diarrea dura menos de 14 días, se trata de diarrea aguda. Si dura 14 días o más, se la denomina persistente, que es la que suele causar problemas nutricionales y puede producir la muerte de los niños y niñas con diarrea.
+11. PORCENTAJE DE NACIDOS EN LOS ÚLTIMOS CINCO AÑOS ANTERIORES A LA ENCUESTA CON BAJO PESO AL NACER
+Es el porcentaje de niñas y niños menores de cinco años que independientemente de su edad gestacional pesaron menos de 2,500 gramos al momento de su nacimiento.
+El peso al nacer es la primera medida del peso del feto o recién nacido hecha después del nacimiento y hasta un máximo de 24 horas posterior al nacimiento del niño. La misma puede haberse realizado con cualquier instrumento de peso. La persona quien pesó al niño puede ser la partera, la obstetra, la enfermera, la técnica enfermera, un familiar, etc.
+12. PORCENTAJE DE MENORES DE 36 MESES CON VACUNAS DE ACUERDO A SU EDAD
+Es el porcentaje de niñas y niños menores de 36 meses que han recibido las vacunas recomendadas para su edad:
+1 dosis de BCG, 3 dosis de Pentavalente, 3 dosis de Polio, 2 dosis de Rotavirus, 3 dosis de Neumococo, 2 dosis de SPR, 1 dosis de refuerzo de DPT y 1 dosis de refuerzo de Polio; según el Esquema Nacional de Vacunación con Resolución Ministerial N°719-2018/MINSA, que aprueba la NTS N°141-MINSA/2018/DGIESP.
+La vacuna es un preparado de antígenos que una vez dentro del organismo provoca la producción de anticuerpos y con ello una respuesta de defensa ante microorganismos patógenos. Las vacunas son una manera sencilla de evitar que los niños se contagien algunas enfermedades que pueden tener, en algunos casos, complicaciones graves (tétanos, poliomielitis, sarampión, etc.). Para lograr una protección suficiente y prolongada es necesario aplicar todas las dosis de vacunas que recomienda el calendario de vacunación vigente, el mismo que es normado y aprobado por el Ministerio de Salud.
+13. PORCENTAJE DE MENORES DE 36 MESES CON CONTROLES DE CRECIMIENTO Y DESARROLLO COMPLETO PARA SU EDAD
+Es el porcentaje de niñas y niños menores de 36 meses que han recibido el número de Controles de Crecimiento y Desarrollo recomendados para su edad.
+El control de crecimiento y desarrollo es un conjunto de actividades periódicas y sistemáticas del crecimiento y desarrollo del niño, con la finalidad de detectar oportunamente cambios y riesgos en su estado de salud a través de un monitoreo o seguimiento adecuado en la evolución de su crecimiento y desarrollo, así como también se considera la promoción de la salud física, mental, emocional y social.
+El cálculo del indicador se basa en el esquema de periodicidad de controles de la niña y niño menor de cinco años de la "Norma Técnica de Salud para el Control del Crecimiento y Desarrollo de la Niña y el Niño menor de cinco años" NST N° 137-MINSA/2017/DGIESP, aprobado con Resolución Ministerial N° 537-2017/MINSA.
+14. PORCENTAJE DE MENORES DE 6 A 35 MESES QUE CONSUMIERON SUPLEMENTO DE HIERRO
+Es el porcentaje de niñas y niños de 6 a 35 meses que han consumido suplemento de hierro en los últimos siete días, con el objetivo de asegurar el suministro adecuado de este nutriente en la dieta de los niños, con el propósito de prevenir y disminuir la prevalencia de anemia.
+15. TASA DE MORTALIDAD NEONATAL DE LOS DIEZ AÑOS ANTERIORES A LA ENCUESTA
+Es el número de nacidos vivos que fallece antes de cumplir el primer mes de vida por cada mil nacidos vivos. En este caso, la tasa tiene como periodo de referencia las defunciones de menores de 28 días ocurridos en los últimos diez años, teniendo como denominador el total de nacidos vivos en ese mismo periodo.
+16. TASA DE MORTALIDAD INFANTIL DE LOS CINCO AÑOS ANTERIORES A LA ENCUESTA
+Es el número de nacidos vivos que fallece antes de cumplir el primer año de vida por cada mil nacidos vivos. En este caso, la tasa tiene como periodo de referencia las defunciones de menores de 12 meses ocurridas en los últimos cinco años, teniendo como denominador el total de nacidos vivos en ese mismo periodo.
+17. TASA GLOBAL DE FECUNDIDAD DE LOS TRES AÑOS ANTERIORES A LA ENCUESTA
+Es el número promedio de hijas y/o hijos que una mujer habría tenido al final de sus años reproductivos si la misma se hubiera ajustado a las tasas de fecundidad por edad específica durante cada año de su vida reproductiva; teniendo de base la experiencia reproductiva de las mujeres en edad fértil en los tres años anteriores a la encuesta.
+18. PORCENTAJE DE MUJERES QUE CONOCE ALGÚN MÉTODO DE PLANIFICACIÓN FAMILIAR
+Es el porcentaje de mujeres de 15 a 49 años de edad que conoce algún método de planificación familiar; ya sea un método moderno o un método tradicional.
+19.1 Métodos Anticonceptivos Tradicionales
+Son aquellos métodos que no requieren de ningún aparato, sustancia química o procedimiento quirúrgico para lograr evitar el embarazo; se rigen por la naturaleza del cuerpo y por el reconocimiento de la pareja del periodo fértil. Cuando la mujer se encuentra en periodo fértil, la pareja se abstiene de tener relaciones sexuales. Entre estos métodos figuran la abstinencia periódica, el retiro y los folklóricos: Lavado con vinagre, lavado con limón, bebiendo agua de piripiri, etc.
+19.2 Métodos Anticonceptivos Modernos
+Son aquellos métodos capaces de evitar un embarazo y son altamente efectivos cuando se usan de manera correcta.
+Son seguros y no producen efectos secundarios considerables; la mayoría no interfiere con el placer sexual e involucran a la pareja (mujer y hombre) en el mejoramiento de su salud sexual y reproductiva. Además, están disponibles en farmacias o centros de salud y hospitales públicos y privados. Están constituidos por los métodos hormonales, de barrera, dispositivos intrauterinos, implantes y métodos quirúrgicos.
+19. PORCENTAJE DE MUJERES CON DEMANDA INSATISFECHA DE PLANIFICACIÓN FAMILIAR
+Es el porcentaje de mujeres unidas que desean limitar o espaciar sus familias y no están usando método anticonceptivo alguno.
+20. PORCENTAJE DE PARTOS INSTITUCIONALES DEL ÚLTIMO NACIMIENTO DE LOS CINCO AÑOS ANTERIORES A LA ENCUESTA
+Es el porcentaje de mujeres cuya última hija/o nacido vivo en los cinco años anteriores a la encuesta ocurrió en un establecimiento de salud y fue atendido por un médico, obstetra y/o enfermera.
+21. PORCENTAJE DE GESTANTES QUE EN EL ÚLTIMO NACIMIENTO EN LOS CINCO AÑOS ANTES DE LA ENCUESTA RECIBIERON 6 O MÁS CONTROLES PRENATALES
+Es el porcentaje de mujeres cuya última hija/o nacido vivo en los cinco años anteriores a la encuesta recibió seis o más controles prenatales.
+El control prenatal es el conjunto de acciones y procedimientos sistemáticos y periódicos, destinados a la prevención, diagnóstico y tratamiento de los factores que puedan condicionar morbimortalidad materna y perinatal.
+Mediante el control prenatal, se vigila la evolución del embarazo y se prepara a la madre para el parto y la crianza de su hijo. De esa forma, se podrá controlar el momento de mayor morbimortalidad en la vida del ser humano, como es el período perinatal y la principal causa de muerte de la mujer joven como es la mortalidad materna.
+A tal fin el Control Prenatal tiene por objeto:
+• Identificar factores de riesgo
+• Diagnosticar la edad gestacional
+• Diagnosticar la condición fetal
+• Diagnosticar la condición materna
+• Educar a la madre
+De acuerdo con la norma técnica del Ministerio de Salud, se tiene como meta que las mujeres gestantes, tengan:
+• El primer control prenatal antes de las 16 semanas; y,
+• Seis controles prenatales como mínimo durante todo el proceso de gestación.
+22. PORCENTAJE DE GESTANTES QUE CONSUMIERON SUPLEMENTO DE HIERRO EN EL ÚLTIMO NACIMIENTO
+Es el porcentaje de mujeres que en la gestación de su última hija/hijo nacido vivo en los cinco años anteriores a la encuesta consumieron hierro en pastilla, jarabe o inyección
+23. PORCENTAJE DE NIÑAS Y NIÑOS DE 6 A 59 MESES QUE NO ESTÁN INSCRITOS EN LA MUNICIPALIDAD / OFICINA REGISTRAL DEL RENIEC
+Es el porcentaje de niñas y niños con edad de 6 a 59 meses de edad que a la fecha de la encuesta no están inscritos en la municipalidad u Oficina Registral de la RENIEC.
+24. PORCENTAJE DE MUJERES QUE SUFRIERON VIOLENCIA, EJERCIDA ALGUNA VEZ POR EL ESPOSO O COMPAÑERO
+Es el porcentaje de mujeres de 15 a 49 años de edad que sufrieron violencia Psicológica, física y/o sexual. La violencia, en cualquiera de sus formas, es sin lugar a dudas la expresión más cruda del ejercicio de poder, del hombre sobre la mujer, del adulto sobre los niños; y, en general, del fuerte sobre el débil. Es un atentado a los derechos humanos de quienes la sufren. Esta manifestación del ejercicio de poder de una persona sobre otra, puede ser expresada algunas veces, a través de insultos, amenazas, coerciones, chantajes y/o agresiones físicas que afectan la salud física, sexual y/o psicológica de las personas que la sufren.

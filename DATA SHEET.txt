@@ -1,0 +1,146 @@
+DATA SHEET
+I. OBJECTIVE:
+Provide updated information on demographic dynamics, the health status of mothers and children under five years of age, as well as provide information on the status and factors associated with non-communicable and communicable diseases, as well as access to diagnostic and treatment services. ; information that allows estimating the indicators identified in the Budget Programs, within the framework of the National Budget by Results Strategy ( PbR ) that allows the monitoring, evaluation and formulation of population and family health programs in the country.
+II. TARGET POPULATION:
+• Private households and their members, people who are habitual residents and those who, being non-residents, spent the night in the home the night before the day of the interview.
+• All women from 12 to 49 years of age and children under 5 years of age.
+• One person from 15 years of age to older for each private household.
+• All girls and boys under 12 years of age.
+III. SAMPLE DESIGN 2022
+3.1 Background
+Given the completion of the master sample for the period 2012-2014, it was necessary to evaluate this design and develop another sample design for the period 2015-2017 and subsequent years.
+One of the weaknesses to be overcome in the 2012-2014 design was the variability observed in the estimation of basic indicators such as chronic malnutrition, anemia, etc. at the level of predominantly urban departments and natural regions, such as the Coastal Region, domains not foreseen with their respective levels of inference, but obtained as a by-product of the departmental estimates, this due to the low coverage of the target populations of the survey, essentially in children under 5 years of age.
+In order to more accurately estimate the main indicators of the survey and improve the coverage of the populations, a new sample design was proposed starting in 2015. Prior to this, a pilot test was carried out during the second half of 2014. where balanced sampling was applied. This type of sampling is also known as the cube method, which allows obtaining samples with estimated totals approximately equal to the characteristics of the target population of the survey and replicates the population structure within the selected sample considering the groups of age, sex and other balance variables, managing to improve the coverage of the target populations and the statistical precision of the main indicators. In 2022, the sampling design established for the period 2021-2024 will continue to be executed, being the same design that was executed for the periods 2015-2017 and 2018-2020.
+Technical design features:
+• Improves coverage of the target population.
+• The selected cluster sample has been carried out at 100% of the CPV 2017 master sampling frame.
+• There is greater dispersion of the sample.
+• The number of homes selected in the cluster are the same in the departments at the urban and rural levels.
+• Requires a continuous cartographic and housing registry update to obtain information on the sex and age of residents, which allows an adequate selection of housing that contains the target population of the survey.
+• Improves the statistical precision of the indicators, coefficients of variation less than 15%.
+• The Primary Sampling Unit (cluster) is selected with probability proportional to size, in terms of its weight in occupied housing using the balanced sampling of the CPV 2017 framework and the Secondary Sampling Unit (housing) is selected from the housing registry applying the balanced sampling, considering the variables: children under 5 years of age, women of childbearing age and other populations.
+• To adjust the weighting factors, the auxiliary information collected in the housing registration stage is used.
+• The months of field work for the survey have varied in recent years, from its beginnings until 2017 it was carried out from March to December; in 2018 from February to December. In 2019, it was carried out from January to December and will continue for the coming years.
+• The clusters that have the same numbering in the variable HV001 (cluster) in the years 2021 and 2022 are panels.
+• The annual sample programmed per year is 36,760 homes and 3,254 clusters, 36,650 homes and 3,245 clusters were executed, representing 99.7%, 110 homes and 9 clusters, representing 0.3%, were not executed due to access problems and social conflicts.
+3.2 Sampling Frame
+The sampling frame, for the selection of the sample, is constituted by the statistical and cartographic information from the National Population Censuses XII and Housing VII of the year 2017 (CPV 2017), and the cartographic material updated for this purpose in the process of cartographic update carried out for the execution of the ENDES.
+3.3 Sampling Units
+• In the Urban Area: The conglomerate and private housing.
+• In the Rural Area: The Rural Registration Area and private housing.
+3.4 Sample Type
+The sample is characterized by being two-stage , balanced probabilistic, stratified and independent, at the departmental level, by urban and rural area.
+3.5 Sample Size
+The size of the annual ENDES sample is 36,650 homes, corresponding to:
+• 14,820 homes to the headquarters area (department capitals and the 43 districts that make up Metropolitan Lima).
+• 9,230 homes to the rest of the urban area
+• 12,600 homes in rural areas.
+3.6 Sample distribution
+The distribution of the sample of the Demographic and Family Health Survey for 2022 was estimated after evaluating the results obtained with the implementation of the ENDES surveys executed in the periods 2012 to 2020 and the design type guidelines previously established for this end.
+The details and characteristics of the sample are presented below:
+3.7 Levels of Inference:
+The annual sample of the Demographic and Family Health Survey is a sample designed to provide representative estimates in the following domains:
+• Monthly
+- National for some indicators for estimates with coefficients of variation less than 15%.
+• Semi-annual
+- National
+- National Urban
+- National Rural
+- Natural Region: Coast, Mountains and Jungle.
+• Annual
+- National
+- National Urban
+- National Rural
+- Natural Region: Coast, Mountains and Jungle.
+- Each of the 24 departments of the country and the Constitutional Province of Callao.
+IV. SAMPLES PANELS WITH ROTATION
+To carry out the rotation, a master sample will be selected that contains 6 subsamples selected from the CPV 2017 master sampling frame. The rotation scheme adopted for the survey is one third of the sample per year. That is, 33.3% of the sample leaves each year, and the same percentage of the sample is replaced each year. This implies that 66.7% of the sample of conglomerates will be maintained from one year to the next.
+In two-stage household surveys, where the sampling units are homes, it is more natural to perform rotation at the level of the primary sampling units (clusters). In each year a group of clusters leaves the sample, and another group enters. Unlike the classic panel samples of other surveys, in the ENDES in each cluster, the selected homes are different throughout the period that the cluster remains in the sample.
+The sample rotation will be carried out for 4 years. It will begin in 2022, during this period 66.7% of the sample of conglomerates from the previous year will be maintained and will be completed with 33.3% of a new subsample of conglomerates in each work month. In 2024, the 6 subsamples of the master sample will be completed. By 2025, a new master sample must be selected to continue the rotation.
+To more easily illustrate the established rotation scheme, let's look at the following diagram:
+V. TECHNICAL CHARACTERISTICS
+5.1 Research Unit:
+The survey research unit is made up of:
+• Habitual residents of private homes in urban and rural areas of the country who have spent the night before the survey in the selected home.
+Excluded from the survey:
+• Regular residents who have not spent the night before the survey in the selected home.
+• Visitors who spent the night before the day of the survey in the selected home.
+5.2 Topics investigated:
+In the ENDES 2022, three questionnaires are applied, one to the Household and its members, the other to all eligible women, that is, from 12 to 49 years of age, and the Health Questionnaire, which is applied to a person from 15 years to further.
+The thematic coverage with the modified ENDES questionnaire is as follows:
+A. Household Questionnaire:
+• Characteristics: demographics, health (access to health insurance), economic activity, educational of household members.
+• Basic characteristics of the home: Basic services (water, drainage and lighting), home equipment, structural (floor, walls and ceiling).
+• Non-Food social programs: BECA 18 Program, TRABAJA PERU National Program, JUNTOS Program, Cuna Más National Program (SAF) and PENSIÓN 65 Program.
+• Social Food Programs: Vaso de Leche Social Program, Social Kitchen Program, National Cuna Más Program (Day Care) and Qali Warma Social Program.
+• Record of anthropometric measurement (weight and height) in children under 6 years of age and women from 12 to 49 years of age.
+• Recording of hemoglobin levels for children from 4 months to children under 6 years of age and women from 12 to 49 years of age.
+• Iodine Salt Test and Residual Chlorine Water Test.
+• Covid-19.
+B. Individual Questionnaire for Women:
+• Demographic and social characteristics.
+• Reproductive history.
+• Use of contraceptive methods.
+Pre-natal care , childbirth assistance and postpartum care.
+• Pregnancy and lactation.
+• Immunization.
+• Prevalence of ARI and EDA.
+• Early Childhood Development for children from 9 to 71 months.
+• Disability.
+• Nuptiality.
+• Fertility preference.
+• History of the spouse and work of the woman (Work experience)
+• Knowledge and attitudes regarding AIDS and other STIs.
+• Maternal Mortality.
+• Domestic Violence.
+C. Health Questionnaire
+• Background of the person.
+• Hypertension and Diabetes.
+• Risk factors for non-communicable diseases.
+• Oral and Eye Health in Adults.
+• Cancer Prevention and Control.
+• HIV AIDS.
+• Mental Health in Adults.
+• Oral, Eye and Mental Health in girls and boys
+• Anthropometry and Blood Pressure Measurements.
+5.3 Collection instruments:
+The collection of coverage information in the selected homes is carried out through a mobile device: Tablet.
+5.4 Data collection method:
+The method used is by DIRECT INTERVIEW (in person), carried out by personnel duly trained to collect this information, who visit the selected homes to complete the survey questionnaires.
+5.5 Informants:
+• In the Household Questionnaire: The Head of Household, the spouse or person aged 18 years or older.
+• In the Individual Questionnaire: Women from 12 to 49 years of age.
+• In the Health Questionnaire: Person aged 15 years or older selected in the home.
+SAW. WEIGHTING FACTORS
+The weighting factors return the unequal probabilities of selection to the selected sampling units, allowing the structure of the reference population to be recomposed, to which the adjustment for non-response by department, area of residence and socioeconomic stratum is also incorporated; thus guaranteeing the adequate estimation of the indicators.
+The procedure for preparing the weights is presented in sequential order below:
+• Cluster selection probability (Primary Sampling Unit, PSU): calculated from the master sampling frame.
+• Probability of selection of homes (Secondary Sampling Unit, USM): In each cluster, 2 groups of homes are selected with a probability proportional to the number of homes (with children and without children) according to the information from the registry of homes and establishments.
+o Homes with children: are all those occupied private homes that have at least one child between 0 and 4 years old at the time of updating the homes listed in the registry.
+o Homes without children: are those occupied private homes reported by people aged 5 and over for the same registration period.
+• Joint Probability: it is the product of the selection probabilities of the UPM and USM.
+• Basic Sampling Factor: It is the inverse of the joint probability.
+ The basic sampling factor adjusts to the non-response of the households in the survey.
+ Based on the basic sampling factor adjusted to the non-response of households, the factor household, woman, child and any target population of a survey is determined.
+The factors to make the estimates are the following:
+ Home Factor (HV005)
+It is the basic sampling factor that has been adjusted to the non-response of households and is used to calculate the indicators that are related to the home, malnutrition and anemia in children under 5 years of age.
+To obtain the indicators with current statistical software to determine the sampling design plan (complex samples), the following variables must be considered:
+HV001: conglomerate, HV022: stratum, weight=HV005/1000000
+The household factor (HV005) is located in the RECH0 module of the database.
+ Woman Factor (V005)
+This factor allows us to recompose the population structure of women of childbearing age and is adjusted to non-response. It is used to calculate indicators related to this population, for example: Family planning for women, institutional birth, unmet demand for family planning, prenatal control, among others.
+To obtain the indicators with current statistical software to determine the sampling design plan (complex samples), the following variables must be considered:
+V001: conglomerate, V022: stratum, weight=V005/1000000
+The female factor (V005) is found in module REC0111 of the database.
+The factors for the health module are also considered:
+ For people 15 years and older (PESO15_AMAS)
+This factor allows us to recompose the population structure of people aged 15 years or older and is adjusted to non-response. It is used to calculate indicators related to this population, for example: Hypertension, Diabetes Mellitus, Cancer, Obesity, Eye Health, Oral Health, among others.
+To obtain the indicators with current statistical software to determine the sampling design plan (complex samples), the following variables must be considered:
+qhcluster : conglomerate, HV022: stratum, weight= PESO15_AMAS /1000000
+The factor for this population is found in the CSALUD01 module of the database.
+ For children under 12 (Weight12)
+This factor allows us to recompose the population structure of children under 12 years of age and is adjusted to non-response; it is used to calculate indicators related to this population, such as Oral Health and Eye Health.
+To obtain the indicators with current statistical software to determine the sampling design plan (complex samples), the following variables must be considered:
+qhcluster : conglomerate, HV022: stratum, weight= Pesomen12/1000000
+The factor for this population is found in the CSALUD08 module of the database.

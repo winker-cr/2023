@@ -1,0 +1,146 @@
+FICHA TÉCNICA
+I. OBJETIVO:
+Proveer información actualizada sobre la dinámica demográfica, el estado de salud de las madres y niños menores de cinco años, así como brindar información sobre el estado y factores asociados a las enfermedades no transmisibles y transmisibles, así como el acceso a servicios de diagnóstico y tratamiento; información que permita estimar los indicadores identificados en los Programas Presupuestales, en el marco de la Estrategia Nacional de Presupuesto por Resultado (PpR) que permita el seguimiento, evaluación y formulación de los programas de población y de salud familiar en el país.
+II. POBLACIÓN OBJETIVO:
+• Los hogares particulares y sus miembros, personas que son residentes habituales y aquellas que no siendo residentes pernoctaron en la vivienda la noche anterior al día de la entrevista.
+• Todas las mujeres de 12 a 49 años de edad y niñas/os menores de 5 años.
+• Una persona de 15 años a más de edad por cada hogar particular.
+• Todas las niñas y niños menores de 12 años.
+III. DISEÑO MUESTRAL 2022
+3.1 Antecedentes
+Ante la culminación de la muestra maestra para el periodo 2012-2014, fue necesario evaluar este diseño y desarrollar otro diseño muestral para el periodo 2015-2017 y años posteriores.
+Una de las debilidades a superar del diseño 2012-2014 fue la variabilidad observada en la estimación de los indicadores básicos como desnutrición crónica, anemia, etc. a nivel de los departamentos predominantemente urbanos y regiones naturales, como la Región Costa, dominios no previstos con sus respectivos niveles de inferencia, pero obtenidos como subproducto de las estimaciones departamentales, esto debido a la baja cobertura de las poblaciones objetivo de la encuesta, esencialmente en niños menores de 5 años.
+Con la finalidad de estimar con mayor precisión los indicadores principales de la encuesta y mejorar la cobertura de las poblaciones, se propuso un nuevo diseño muestral a partir del año 2015, previo a ello se realizó una prueba piloto durante el segundo semestre del año 2014, donde se aplicó el muestreo equilibrado. A este tipo de muestreo se le conoce también como el método del cubo, el cual permite obtener muestras con estimaciones de totales aproximadamente iguales a las características de la población objetivo de la encuesta y replica la estructura poblacional dentro de la muestra seleccionada considerando los grupos de edad, sexo y otras variables de equilibrio, logrando mejorar la cobertura de las poblaciones objetivos y las precisiones estadisticas de los indicadores principales. En el 2022 se continuará ejecutando diseño muestral establecido para el periodo 2021-2024, siendo el mismo diseño que se ejecutó para los periodos 2015-2017 y 2018-2020.
+Características técnicas del diseño:
+• Mejora la cobertura de la población objetivo.
+• La muestra de conglomerados seleccionada se ha realizado al 100% del marco maestro de muestreo CPV 2017.
+• Existe mayor dispersión de la muestra.
+• El número de viviendas seleccionadas en el conglomerado son iguales en los departamentos a nivel urbano y rural.
+• Requiere una actualización cartográfica y de registro de viviendas de manera continua para obtener información de sexo y edad de los residentes, que permita una adecuada selección de viviendas que contenga la población objetivo de la encuesta.
+• Mejora las precisiones estadísticas de los indicadores, coeficientes de variación menores al 15%.
+• La Unidad Primaria de Muestreo (conglomerado) se selecciona con probabilidad proporcional al tamaño, en términos de su peso en viviendas ocupadas empleando el muestreo equilibrado del marco CPV 2017 y la Unidad Secundaria de Muestreo (viviendas) se selecciona del registro de viviendas aplicando el muestreo equilibrado, considerando las variables: niños menores de 5 años, mujeres en edad fértil y otras poblaciones.
+• Para el ajuste de los factores de ponderación se utiliza la información auxiliar recopilada en la etapa de registro de viviendas.
+• Los meses de trabajo de campo de la encuesta ha variado en los últimos años, desde sus inicios hasta el 2017 se realizó de marzo a diciembre; en el 2018 de febrero a diciembre. En el año 2019, se realizó de enero a diciembre y va continuar para los próximos años.
+• Los conglomerados que tienen la misma numeración en la variable HV001 (conglomerado) en los años 2021 y 2022 son paneles.
+• La muestra anual programada por año es de 36 760 viviendas y 3 254 conglomerados, se ejecutaron 36 650 viviendas y 3 245 conglomerados que representa el 99.7%, no se ejecutó 110 viviendas y 9 conglomerados que representa el 0.3% por problemas de acceso y conflictos sociales.
+3.2 Marco Muestral
+El marco muestral, para la selección de la muestra, lo constituye la información estadística y cartográfica proveniente de los Censos Nacionales XII de Población y VII de Vivienda del año 2017 (CPV 2017), y el material cartográfico actualizado para tal fin en el proceso de actualización cartográfica realizado para la ejecución de la ENDES.
+3.3 Unidades de Muestreo
+• En el Área Urbana: El conglomerado y la vivienda particular.
+• En el Área Rural: El Área de Empadronamiento Rural y la vivienda particular.
+3.4 Tipo de Muestra
+La muestra se caracteriza por ser bietápica, probabilística de tipo equilibrado, estratificada e independiente, a nivel departamental, por área urbana y rural.
+3.5 Tamaño Muestral
+El tamaño de la muestra anual de la ENDES es de 36 650 viviendas, correspondiendo:
+• 14 820 viviendas al área sede (capitales de departamento y los 43 distritos que conforman Lima Metropolitana).
+• 9 230 viviendas al resto urbano
+• 12 600 viviendas al área rural.
+3.6 Distribución de la muestra
+La distribución de la muestra de la Encuesta Demográfica y de Salud Familiar para el 2022, fue estimada previa evaluación de los resultados obtenidos con la implementación de las encuestas ENDES ejecutadas en los periodos 2012 a 2020 y los lineamientos del tipo de diseño previamente establecidos para este fin.
+Los detalles y características de la muestra se presentan a continuación:
+3.7 Niveles de Inferencia:
+La muestra anual de la Encuesta Demográfica y de Salud Familiar, es una muestra diseñada para dar estimaciones representativas, en los siguientes dominios:
+• Mensual
+- Nacional para algunos indicadores para estimaciones con coeficientes de variación menores al 15%.
+• Semestral
+- Nacional
+- Nacional Urbana
+- Nacional Rural
+- Región Natural: Costa, Sierra y Selva.
+• Anual
+- Nacional
+- Nacional Urbana
+- Nacional Rural
+- Región Natural: Costa, Sierra y Selva.
+- Cada uno de los 24 departamentos del país y la Provincia Constitucional del Callao.
+IV. MUESTRAS PANELES CON ROTACIÓN
+Para realizar la rotación se seleccionará una muestra maestra que contiene 6 submuestras seleccionadas del marco maestro de muestreo CPV 2017. El esquema de rotación adoptado para la encuesta es de la tercera parte de la muestra por año. Es decir, el 33.3% de la muestra sale cada año, y el mismo porcentaje de la muestra es reemplazado cada año. Esto implica que se mantendrá el 66.7% de muestra de conglomerados de un año a otro.
+En encuestas bietápicas de hogares, donde las unidades de muestreo son viviendas, es más natural realizar la rotación a nivel de las unidades primarias de muestreo (conglomerados). En cada año un grupo de conglomerados sale de la muestra, y otro grupo entra. A diferencia de las muestras paneles clásicos de otras encuestas, en la ENDES en cada conglomerado, las viviendas seleccionadas son diferentes durante todo el periodo que el conglomerado permanece en la muestra.
+La rotación de la muestra se realizará durante 4 años. Se iniciará en el año 2022, en este periodo se mantendrá el 66.7% de la muestra de conglomerados del año anterior y se completará con el 33.3% de una submuestra nueva de conglomerados en cada mes de trabajo. En el año 2024 se concluirá de utilizar las 6 submuestras de la muestra maestra. Para el año 2025 se deberán seleccionar una nueva muestra maestra para continuar con la rotación.
+Para ilustrar más fácilmente el esquema de rotación establecido, veamos el siguiente esquema:
+V. CARACTERÍSTICAS TÉCNICAS
+5.1 Unidad de Investigación:
+La unidad de investigación de la encuesta está constituida por:
+• Los residentes habituales de viviendas particulares de áreas urbanas y rurales del país que hayan pernoctado la noche anterior, a la encuesta, en la vivienda seleccionada.
+Se excluye de la encuesta a:
+• Los residentes habituales que no hayan pernoctado la noche anterior a la encuesta en la vivienda seleccionada.
+• Visitantes que pasaron la noche anterior al día de la encuesta en la vivienda seleccionada.
+5.2 Temas investigados:
+En la ENDES 2022 se aplican tres cuestionarios, uno al Hogar y sus miembros, el otro, a todas las mujeres elegibles, es decir, de 12 a 49 años de edad y el Cuestionario de Salud que es aplicado a una persona de 15 años a más.
+La cobertura temática con el cuestionario ENDES modificado es la siguiente:
+A. Cuestionario del Hogar:
+• Características: demográficas, salud (acceso al seguro de salud), actividad económica, educativas de los miembros del hogar.
+• Características básicas de la vivienda: Servicios básicos (agua, desagüe y alumbrado), equipamiento del hogar, estructurales (piso, paredes y techo).
+• Programas sociales No Alimentarios: Programa BECA 18, Programa Nacional TRABAJA PERU, Programa JUNTOS, Programa Nacional Cuna Más (SAF) y Programa PENSIÓN 65.
+• Programas Sociales Alimentarios: Programa Social Vaso de Leche, Programa Social Comedor Popular, Programa Nacional Cuna Más (Cuidado Diurno) y Programa Social Qali Warma.
+• Registro de la medición antropométrica (peso y talla) en niñas/os menores de 6 años y mujeres de 12 a 49 años.
+• Registro de los niveles de hemoglobina niñas/os de 4 meses a menores de 6 años y mujeres de 12 a 49 años.
+• Prueba de Yodo en la Sal y Prueba de Cloro Residual en el Agua.
+• Covid-19.
+B. Cuestionario Individual de la Mujer:
+• Características demográficas y sociales.
+• Historia reproductiva.
+• Uso de métodos anticonceptivos.
+• Atención pre-natal, asistencia del parto y atención puerperal.
+• Embarazo y lactancia.
+• Inmunización.
+• Prevalencia de IRA y EDA.
+• Desarrollo Infantil Temprano para niñas/os de 9 a 71 meses.
+• Discapacidad.
+• Nupcialidad.
+• Preferencia de fecundidad.
+• Antecedentes del cónyuge y trabajo de la mujer (Experiencia laboral)
+• Conocimientos y actitudes respecto al SIDA y otras ITS.
+• Mortalidad Materna.
+• Violencia Doméstica.
+C. Cuestionario de Salud
+• Antecedentes de la persona.
+• Hipertensión y Diabetes.
+• Factores de riesgo de las Enfermedades No trasmisibles.
+• Salud Bucal y Ocular en Adultos.
+• Prevención y Control de Cáncer.
+• VIH / SIDA.
+• Salud Mental en Adultos.
+• Salud Bucal, Ocular y Mental en niñas y niños
+• Mediciones de Antropometría y Presión Arterial.
+5.3 Instrumentos de recolección:
+La recolección de información de cobertura en las viviendas seleccionadas, se efectúa a través de un dispositivo móvil: Tablet.
+5.4 Método de recolección de datos:
+El método utilizado es por ENTREVISTA DIRECTA (presencial), realizada por personal debidamente capacitado para el recojo de esta información, quienes visitan las viviendas seleccionadas para diligenciar los cuestionarios de la encuesta.
+5.5 Informantes:
+• En el Cuestionario del Hogar: El Jefe/a de Hogar, el (la) esposo/a o persona de 18 años a más.
+• En el Cuestionario Individual: Mujeres de 12 a 49 años de edad.
+• En el Cuestionario de Salud: Persona de 15 años a más de edad seleccionada en el hogar.
+VI. FACTORES DE PONDERACIÓN
+Los factores de ponderación devuelven a las unidades de muestreo seleccionados las probabilidades desiguales de selección permitiendo recomponer la estructura de la población de referencia, al cual también se incorpora el ajuste por falta de respuesta por departamento, área de residencia y estrato socioeconómico; garantizando así la adecuada estimación de los indicadores.
+A continuación, se presenta en orden secuencial el procedimiento de elaboración de los ponderadores:
+• Probabilidad de selección de los conglomerados (Unidad primaria de muestreo, UPM): se calcula a partir del marco maestro de muestreo.
+• Probabilidad de selección de las viviendas (Unidad secundaria de muestreo, USM): En cada conglomerado se seleccionan 2 grupos de viviendas con probabilidad proporcional al número de viviendas (con niños y sin niños) según la información del registro de viviendas y establecimientos.
+o Las viviendas con niños: son todas aquellas viviendas particulares ocupadas que tienen al menos un niño de 0 a 4 años al momento de la actualización de las viviendas listadas en el registro.
+o Las viviendas sin niños: son aquellas viviendas particulares ocupadas que reportaron personas de 5 y más años para el mismo periodo del registro.
+• Probabilidad Conjunta: es el producto de las probabilidades de selección de las UPM y USM.
+• Factor Básico de Muestreo: Es la inversa de la probabilidad conjunta.
+ El factor básico de muestreo se ajusta a la no respuesta de las viviendas de la encuesta.
+ A partir del factor básico de muestreo ajustado a la no respuesta de viviendas, se determina el factor hogar, mujer, niño y de cualquier población objetivo de una encuesta.
+Los factores para realizar las estimaciones son los siguientes:
+ Factor Hogar (HV005)
+Es el factor básico de muestreo que ha sido ajustado a la no respuesta de viviendas y se utiliza para el cálculo de los indicadores que están relacionados al hogar, desnutrición y anemia en menores de 5 años.
+Para la obtención de los indicadores con los softwares estadísticos actuales para determinar el plan del diseño muestral (muestras complejas), se debe considerar las siguientes variables:
+HV001: conglomerado, HV022: estrato, peso=HV005/1000000
+El factor hogar (HV005) se encuentra en el módulo RECH0 de la base de datos.
+ Factor Mujer (V005)
+Este factor permite recomponer la estructura poblacional de las mujeres en edad fértil y está ajustado a la no respuesta, se utiliza para el cálculo de indicadores relacionados con esta población, por ejemplo: Planificación familiar de mujeres, parto institucional, demanda insatisfecha de planificación familiar, control prenatal, entre otros.
+Para la obtención de los indicadores con los softwares estadísticos actuales para determinar el plan del diseño muestral (muestras complejas), se debe considerar las siguientes variables:
+V001: conglomerado, V022: estrato, peso=V005/1000000
+El factor mujer (V005) se encuentra en el módulo REC0111 de la base de datos.
+También se considera los factores para el módulo de salud:
+ Para personas de 15 años a más (PESO15_AMAS)
+Este factor permite recomponer la estructura poblacional de las personas de 15 años a más y está ajustado a la no respuesta, se utiliza para el cálculo de indicadores relacionados con esta población, por ejemplo: Hipertensión, Diabetes Mellitus, Cáncer, Obesidad, Salud ocular, Salud Bucal, entre otros.
+Para la obtención de los indicadores con los softwares estadísticos actuales para determinar el plan del diseño muestral (muestras complejas), se debe considerar las siguientes variables:
+qhcluster: conglomerado, HV022: estrato, peso= PESO15_AMAS /1000000
+El factor de esta población se encuentra en el módulo CSALUD01 de la base de datos.
+ Para niños menores de 12 (Pesomen12)
+Este factor permite recomponer la estructura poblacional de los menores de 12 años y está ajustado a la no respuesta, se utiliza para el cálculo de indicadores relacionados con esta población, como Salud Bucal y Salud Ocular.
+Para la obtención de los indicadores con los softwares estadísticos actuales para determinar el plan del diseño muestral (muestras complejas), se debe considerar las siguientes variables:
+qhcluster: conglomerado, HV022: estrato, peso= Pesomen12/1000000
+El factor de esta población se encuentra en el módulo CSALUD08 de la base de datos.

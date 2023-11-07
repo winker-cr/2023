@@ -1,0 +1,118 @@
+DEFINITION OF TERMS AND INDICATORS
+1. INDICATOR
+It is a measurement or numerical expression that accounts for an aspect of the selected reality; In general, indicators are “Tools to clarify and define, more precisely, objectives and impacts (...) they are verifiable measures of change or result (...) designed to have a standard against which to evaluate, estimate or demonstrate progress (...) with respect to established goals, facilitate the distribution of inputs, producing (...) products and achieving objectives.” Among them, the ratio, proportion and rate are the indicators used in this report:
+1.1 Reason
+It is the quotient between two numbers, in which none or only some elements of the numerator are included in the denominator. For example, the ratio of children per woman whose calculation expression is the following:
+1.2 Proportion
+Proportion is a special type of ratio in which the elements of the numerator are included in the denominator. In the numerator, the number of individuals who verify a certain condition is considered, for example: Chronically malnourished, Women and children with anemia, girls and boys with EDA or ARI in the last two weeks, etc. And, in the denominator, the total number of individuals that includes those who present the determined condition and those who do not present said condition, whose quotient is expressed by one percent. For example, the proportion of the Urban Population whose calculation expression is the following:
+1.3 Rate
+It is the frequency of socio-demographic events that occur in a population during a certain period of time (usually a year) divided by the population “at risk” of suffering the event during that period of time.
+The rate is a special type of proportion or ratio that includes a measure of time in the denominator. The components of a rate are the numerator, the denominator, the specific time at which the event occurs, and usually a multiplier, a power of 10, which converts a decimal fraction into a whole number. For example, the specific fertility rate by age whose calculation expression is the following:
+1.4 Coefficient of variation
+It is a statistical measure that relates the standard deviation to the estimated mean in a given population sample; and, whose quotient expresses the level or degree of homogeneity of the values subject to estimation in the sample and is indicative of the level of precision of the estimate obtained:
+1.5 Confidence Interval
+The confidence interval is a range of values (calculated in a sample) in which the true value of the parameter is found, with a given probability.
+1.6 Wellbeing Index
+It is a composite index that gives a socioeconomic level to the Home based on the characteristics of the home and the availability of certain durable consumer goods, which by extension is assigned to the members of the home.
+In the construction of the indicator, each household is assigned a score using the principal components analysis methodology, depending on whether or not they own durable goods and the characteristics of the home; methodology that was developed by Shea Rutstein and Kiersten Johnson of Macro International Inc.; and, Deon Filmer and Lant Pritchett of the World Bank.
+1.7 Wealth Quintile
+It is the distribution of Households into five equal parts, having as the ordering unit the value of the Wealth Index that they achieved, giving rise to the specification of a cut-off point for each of them.
+In this document, the Wealth Quintile is presented in two versions. The first is that it preserves the score and values of the ENDES 2000 Wealth Index, in order to facilitate the monitoring of population segments that maintain the same socioeconomic level over time.
+On the other hand, restoring the concept of quintiles, the cut-off points are established according to the distribution of the year of the Survey.
+2. BUDGET BY RESULT
+It is a budget scheme that integrates the programming, formulation, approval, execution and evaluation of the budget, in a vision of achieving results in favor of the population, feeding back the annual processes for the reallocation, reprogramming and adjustments of the interventions.
+3. BUDGET PROGRAMS
+They are articulated interventions of the State, between sectors and by levels of government, around the resolution of a central problem that afflicts the population of a country. Strategic programs constitute the fundamental element of budget management by results; In this sense, they respond to a causal model to achieve results, whose levels have a logical means-end relationship, based on the inputs, by-products, products, intermediate and final results associated with the set of interventions that constitute it.
+Article 10 of Law No. 28927 – Public Sector Budget Law for Fiscal Year 2007 established the beginning of the application of budget management based on results, through instruments such as Strategic Budget Programming, physical goals, indicators of results and the development of pilot evaluation tests.
+In compliance with the aforementioned regulatory framework, the National Public Budget Directorate, during the first half of fiscal year 2007, began work to design a set of interventions under the new Results-Based Budget (PPR) approach, resulting in the constitution of the first five Budget Programs: Articulated Nutritional Program, Maternal Neonatal Health, Learning Achievements at the end of the III Cycle, Access to Basic Social Services and Access of the Population to Identity
+4. PERCENTAGE OF HOUSEHOLDS WITH ACCESS TO TREATED WATER
+It is the percentage of households that have access to safe water; understood as such, the water that comes from the public network or that which does not come from the public network but that treats the water before drinking it; such as: They boil it, chlorinate it , disinfect it in the sun or consume bottled water.
+5. PERCENTAGE OF HOMES WITH BASIC SANITATION
+It is the percentage of households that have access to at least one blind or cesspool for the disposal of their excreta.
+6. PERCENTAGE OF CHILDREN UNDER FIVE YEARS OLD WITH CHRONIC MALNUTRITION
+It is the percentage of girls and boys under five years of age whose Height for Age is two standard deviations below the
+median of the International Growth Pattern taken as Reference Population.
+Reference Population
+It is the model that serves as a sample for the evaluation of the anthropometric measurements achieved by minors according to age and
+sex, as an indicator of nutritional status.
+In Peru, since ENDES 2005, the classification of Nutritional Status has been carried out based on the Pattern of
+International Child Growth of the World Health Organization - WHO disseminated internationally in 2006. This
+The new reference standard was developed based on boys and girls who were in an optimal environment for growth:
+recommended feeding practices for infants and young children, good health care, non-smoking mothers, and others
+factors related to good health outcomes. The sample of boys and girls comes from: Brazil, Ghana, India, Norway,
+Oman and the United States.
+The Pattern used previously and with which the Goal of reducing Chronic Malnutrition for the Objectives was established
+Millennium Development Plan, is the one recommended by the National Center for Health Statistics (NCHS/WHO), which was prepared
+based on monitoring a sample of boys and girls in the United States and published in 1971.
+7. PERCENTAGE OF CHILDREN UNDER SIX MONTHS BREASTFEEDING
+It is the percentage of girls and boys under six months of age who were breastfed the day before the interview day.
+Breastfeeding is the feeding of the infant with breast milk from the mother or another woman.
+8. PERCENTAGE OF GIRLS AND BOYS AGED 6 TO 35 MONTHS WITH ANEMIA
+It is the percentage of girls and boys between 6 and 35 months of age who have less than 11 grams of hemoglobin per deciliter of blood.
+Anemia is a condition in which the blood lacks enough red blood cells, or the hemoglobin concentration is lower than reference values according to age, sex and altitude. Hemoglobin is a protein group that contains iron, it is produced in the red blood cells of humans and its lack indicates, in principle, that there is an iron deficiency.
+The consequences of anemia are: fatigue, dizziness, headache, paleness and palpitations. In addition, it is associated with low intellectual performance, behavioral alterations and low productivity.
+9. PERCENTAGE OF CHILDREN UNDER 36 MONTHS OF AGE WHO HAD ANGER IN THE TWO WEEKS PRIOR TO THE SURVEY
+It is the percentage of girls and boys under 36 months of age who had an Acute Respiratory Infection - ARI.
+Acute Respiratory Infections are a complex and heterogeneous group of infections caused by different germs, which affect any part of the respiratory system and which, due to their location in said respiratory system, are called:
+• Uncomplicated IRA:
+- Common cold: nasopharyngitis, rhinopharyngitis.
+- Sinusitis
+- Pharyngitis, tonsillitis
+- Bronchitis
+- Otitis media
+• Complicated IRA
+- Pneumonia: Rapid breathing.
+- Severe pneumonia: Subcostal indrawing
+- Very severe pneumonia: stridor at rest.
+10. PERCENTAGE OF CHILDREN UNDER 36 MONTHS OF AGE WHO HAD EDA IN THE TWO WEEKS PRIOR TO THE SURVEY
+It is the percentage of girls and boys under 36 months who had Acute Diarrheal Disease -ADD.
+Diarrhea is defined as the presence of three or more loose or liquid stools in a 24-hour period. If an episode of diarrhea lasts less than 14 days, it is acute diarrhea. If it lasts 14 days or more, it is called persistent, which usually causes nutritional problems and can cause death in children with diarrhea.
+11. PERCENTAGE OF BORN IN THE LAST FIVE YEARS PRIOR TO THE SURVEY WITH LOW BIRTH WEIGHT
+It is the percentage of girls and boys under five years of age who, regardless of their gestational age, weighed less than 2,500 grams at the time of birth.
+Birth weight is the first measurement of the weight of the fetus or newborn made after birth and up to a maximum of 24 hours after the child is born. It could have been done with any heavy instrument. The person who weighed the child may be the midwife, obstetrician, nurse, nursing technician, a family member, etc.
+12. PERCENTAGE OF CHILDREN UNDER 36 MONTHS WITH VACCINES ACCORDING TO THEIR AGE
+It is the percentage of girls and boys under 36 months who have received the recommended vaccines for their age:
+1 dose of BCG, 3 doses of Pentavalent, 3 doses of Polio, 2 doses of Rotavirus, 3 doses of Pneumococcus, 2 doses of MMR, 1 booster dose of DPT and 1 booster dose of Polio; according to the National Vaccination Scheme with Ministerial Resolution N°719-2018/MINSA, which approves NTS N°141-MINSA/2018/DGIESP.
+The vaccine is a preparation of antigens that, once inside the body, provokes the production of antibodies and thus a defense response against pathogenic microorganisms. Vaccines are a simple way to prevent children from contracting some diseases that can have, in some cases, serious complications (tetanus, polio, measles, etc.). To achieve sufficient and prolonged protection, it is necessary to apply all the doses of vaccines recommended by the current vaccination schedule, which is regulated and approved by the Ministry of Health.
+13. PERCENTAGE OF CHILDREN UNDER 36 MONTHS WITH COMPLETE GROWTH AND DEVELOPMENT CONTROLS FOR THEIR AGE
+It is the percentage of girls and boys under 36 months who have received the number of Growth and Development Controls recommended for their age.
+Growth and development control is a set of periodic and systematic activities of the child's growth and development, with the purpose of timely detecting changes and risks in their health status through adequate monitoring or follow-up of the evolution of their growth and development. development, as well as the promotion of physical, mental, emotional and social health.
+The calculation of the indicator is based on the periodicity scheme for controls of girls and boys under five years of age of the "Technical Health Standard for the Control of the Growth and Development of Girls and Boys under five years of age" NST No. 137-MINSA/2017/DGIESP, approved with Ministerial Resolution No. 537-2017/MINSA.
+14. PERCENTAGE OF CHILDREN AGED 6 TO 35 MONTHS WHO CONSUMED IRON SUPPLEMENT
+It is the percentage of girls and boys from 6 to 35 months who have consumed iron supplements in the last seven days, with the aim of ensuring the adequate supply of this nutrient in the children's diet, with the purpose of preventing and reducing iron deficiency. prevalence of anemia.
+15. NEONATAL MORTALITY RATE FOR THE TEN YEARS PRIOR TO THE SURVEY
+It is the number of live births that die before reaching the first month of life per thousand live births. In this case, the rate has as its reference period the deaths of children under 28 days of age that occurred in the last ten years, with the total number of live births in that same period as the denominator.
+16. INFANT MORTALITY RATE FOR THE FIVE YEARS PRIOR TO THE SURVEY
+It is the number of live births that die before reaching the first year of life per thousand live births. In this case, the rate has as its reference period the deaths of children under 12 months of age that occurred in the last five years, with the total number of live births in that same period as the denominator.
+17. GLOBAL FERTILITY RATE FOR THE THREE YEARS PRIOR TO THE SURVEY
+It is the average number of daughters and/or sons that a woman would have had at the end of her reproductive years if she had adjusted to the age-specific fertility rates during each year of her reproductive life; based on the reproductive experience of women of childbearing age in the three years prior to the survey.
+18. PERCENTAGE OF WOMEN WHO KNOW SOME FAMILY PLANNING METHOD
+It is the percentage of women between 15 and 49 years of age who know some family planning method; whether it is a modern method or a traditional method.
+19.1 Traditional Contraceptive Methods
+They are those methods that do not require any device, chemical substance or surgical procedure to avoid pregnancy; They are governed by the nature of the body and by the couple's recognition of the fertile period. When the woman is in her fertile period, the couple abstains from having sexual relations. These methods include periodic abstinence, withdrawal and folkloric methods: Washing with vinegar, washing with lemon, drinking piripiri water , etc.
+19.2 Modern Contraceptive Methods
+They are those methods capable of avoiding pregnancy and are highly effective when used correctly.
+They are safe and do not produce significant side effects; most do not interfere with sexual pleasure and involve the couple (woman and man) in improving their sexual and reproductive health. In addition, they are available in pharmacies or public and private health centers and hospitals. They consist of hormonal methods, barrier methods, intrauterine devices, implants and surgical methods.
+19. PERCENTAGE OF WOMEN WITH UNSATISFIED DEMAND FOR FAMILY PLANNING
+It is the percentage of married women who want to limit or space their families and are not using any contraceptive method.
+20. PERCENTAGE OF INSTITUTIONAL DELIVERY OF THE LAST BIRTH IN THE FIVE YEARS PRIOR TO THE SURVEY
+It is the percentage of women whose last live birth in the five years prior to the survey occurred in a health facility and was attended by a doctor, obstetrician and/or nurse.
+21. PERCENTAGE OF PREGNANT WOMEN WHO RECEIVED 6 OR MORE PRENATAL CHECKS IN THE LAST BIRTH IN THE FIVE YEARS BEFORE THE SURVEY
+It is the percentage of women whose last live birth in the five years prior to the survey received six or more prenatal check-ups.
+Prenatal control is the set of systematic and periodic actions and procedures, aimed at the prevention, diagnosis and treatment of factors that may cause maternal and perinatal morbidity and mortality.
+Through prenatal control, the progress of the pregnancy is monitored and the mother is prepared for the birth and upbringing of her child. In this way, it will be possible to control the moment of greatest morbidity and mortality in the life of a human being, such as the perinatal period and the main cause of death of young women, such as maternal mortality.
+To this end, Prenatal Control aims to:
+• Identify risk factors
+• Diagnose gestational age
+• Diagnose the fetal condition
+• Diagnose the maternal condition
+• Educate the mother
+According to the technical standard of the Ministry of Health, the goal is for pregnant women to have:
+• The first prenatal check-up before 16 weeks; and,
+• At least six prenatal check-ups throughout the entire pregnancy process.
+22. PERCENTAGE OF PREGNANT WOMEN WHO CONSUMED IRON SUPPLEMENT IN THE LAST BIRTH
+It is the percentage of women who consumed iron in pills, syrup or injection during the pregnancy of their last child born alive in the five years prior to the survey.
+23. PERCENTAGE OF GIRLS AND BOYS FROM 6 TO 59 MONTHS WHO ARE NOT REGISTERED IN THE MUNICIPALITY / RENIEC REGISTRATION OFFICE
+It is the percentage of girls and boys aged 6 to 59 months who, as of the date of the survey, are not registered in the municipality or RENIEC Registry Office.
+24. PERCENTAGE OF WOMEN WHO SUFFERED VIOLENCE, EVER EXERCISED BY THEIR HUSBAND OR PARTNER
+It is the percentage of women between 15 and 49 years of age who suffered psychological, physical and/or sexual violence. Violence, in any of its forms, is without a doubt the crudest expression of the exercise of power, of men over women, of adults over children; and, in general, of the strong over the weak. It is an attack on the human rights of those who suffer it. This manifestation of the exercise of power by one person over another can sometimes be expressed through insults, threats, coercion, blackmail and/or physical attacks that affect the physical, sexual and/or psychological health of the people who suffer it.
